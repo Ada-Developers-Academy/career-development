@@ -2,8 +2,8 @@
 Standards:
 
   -
-    Title: Career Development Schedule
-    Description: Schedule of topics and presenters
+    Title: Schedule
+    Description: Topics and speakers
     UID: 8c0c928b-2cd6-4f97-90dc-8f7d407af8d1   
     SuccessCriteria:
       - success criteria
