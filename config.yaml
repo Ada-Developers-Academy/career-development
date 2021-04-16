@@ -3,12 +3,80 @@ Standards:
   -
     Title: Internship Expectations
     Description: Internship Expecatations with Alice and Jackie
-    UID: dccfe33a-1d83-4c37-bd61-d60f0cf6d323  
+    UID: b22eac8b-d86e-4bf2-b34a-ca6e798c57e7  
     SuccessCriteria:
       - success criteria
     ContentFiles:
       -
         Type: Lesson
-        UID: cae486a0-91af-44a0-842a-fe7c6443fd41 
+        UID: 2cb5fb41-6b23-4a72-bb5c-f1dc8837654b  
         Path: /internshipexpectations/overview.md 
+  -
+    Title: Remote Internship Tips
+    Description: Advice from Previous Cohorts
+    UID: 6c516d17-5db5-45f4-a612-2a497f367235 
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 2e19cf22-2a99-4698-bbbf-32b1631c1429 
+        Path: /remoteinternship/overview.md          
+  - 
+    Title: Panel with C13 Interns
+    Description: Internship advice from previous interns
+    UID: deaa25fa-78a9-4f5c-8a83-5dfacf74d7b3  
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: cdc04da7-a055-479d-83b1-66a662e00eed 
+        Path: /internshippanel/overview.md
+  -
+  
+    Title: Managing Up
+    Description: How to get the most out of your relationship with your manager
+    UID: 02719c5a-553a-4d5b-a31f-8ffe6a817033 
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 6125defb-5458-4797-9e9c-6591f3faf278 
+        Path: /managingup/overview.md       
+  -
+  
+    Title: Self Care and Boundary Setting
+    Description: Taking care of yourself during internship
+    UID: 0ff60020-b1a3-40bd-92b8-c0bb5a848bca  
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 5facedda-958f-4b30-818b-5388085ab137  
+        Path: /self-care/overview.md               
+  -
+    Title: Preparing for Midpoint Reviews
+    Description: Keys to a successful midpoint review
+    UID: af75fc76-5110-44f0-87a1-3d75acae2cd3 
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 70e3fc68-2def-4c4a-9f08-c3f26c8a2a4c 
+        Path: /prepping-for-midpoint-reviews/overview.md
+  -
+    Title: Managing Impostor Syndrome
+    Description: Recognizing and managing impostor syndrome 
+    UID: c373707c-e8fb-4052-afa2-eafdd1ce89b9  
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 6b054c2c-fc9d-4b10-96cc-693768bc1b26  
+        Path: /impostorsyndrome/overview.md
   
