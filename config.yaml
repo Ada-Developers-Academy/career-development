@@ -1,5 +1,17 @@
 ---
 Standards:
+
+  -
+    Title: Career Development Schedule
+    Description: Schedule of topics and presenters
+    UID: 8c0c928b-2cd6-4f97-90dc-8f7d407af8d1   
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 1b84f226-a69b-4603-977b-d43446996073 
+        Path: /overview/overview.md 
   -
     Title: Internship Expectations
     Description: Internship Expecatations with Alice and Jackie
