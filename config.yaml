@@ -91,4 +91,16 @@ Standards:
         Type: Lesson
         UID: 6b054c2c-fc9d-4b10-96cc-693768bc1b26  
         Path: /impostorsyndrome/overview.md
+        
+  -
+    Title: Interviewer Panel
+    Description: SDE Interview Tips from Industry 
+    UID: 569c2b07-63f8-4782-b8b9-f934cd471f3b  
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: f40ce4ef-67a3-4294-9e5b-1a59f7c60142  
+        Path: /interviewerpanel/overview.md
   
