@@ -127,4 +127,16 @@ Standards:
         Type: Lesson
         UID: 095d02e7-b30f-480f-ad6f-901d704d016a 
         Path: /behavioralinterviews/overview.md
+        
+  -
+    Title: Leveraging LinkedIn
+    Description: Mock interview debrief and LinkedIn for job search 
+    UID: 4ea34411-0606-4e0e-b38c-ca01fa97035c 
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 280ab507-4f2e-4990-97d7-37c2ffe30701 
+        Path: /leveraginglinkedin/overview.md
   
