@@ -139,4 +139,16 @@ Standards:
         Type: Lesson
         UID: e18e4a3b-b198-49e1-8369-be39364ef7f0 
         Path: /leveraginglinkedin/overview.md
-  
+        
+  -
+    Title: Strong habits of an SDE Job Seeker
+    Description: Technical job search strategies 
+    UID: b249fd6c-6598-4279-a886-f25e8f89b9cf 
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 2c395f57-abc4-46a8-a2fa-956d16f2f2c7
+        Path: /SDEjobsearch/overview.md
+        
