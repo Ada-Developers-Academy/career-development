@@ -152,3 +152,14 @@ Standards:
         UID: 2c395f57-abc4-46a8-a2fa-956d16f2f2c7
         Path: /SDEjobsearch/overview.md
         
+  -
+    Title: Professional Networking
+    Description: Networking strategies for your career 
+    UID: d053247c-5b2f-4e3d-8279-4385e7a2faf0 
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: af2e33f9-a8ee-4c15-94b7-a315ff8d0f84
+        Path: /networking/overview.md
