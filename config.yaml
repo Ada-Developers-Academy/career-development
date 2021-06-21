@@ -163,3 +163,15 @@ Standards:
         Type: Lesson
         UID: af2e33f9-a8ee-4c15-94b7-a315ff8d0f84
         Path: /networking/overview.md
+        
+  -
+    Title: Salary Negotiation
+    Description: Salary negotiation strategies with Professor Umphress
+    UID: 26239b28-888b-49e6-a8cf-98b742345609 
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 91a24944-1872-4162-9d19-8a490be2428d
+        Path: /salarynegotiation/overview.md
