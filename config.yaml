@@ -175,3 +175,15 @@ Standards:
         Type: Lesson
         UID: 91a24944-1872-4162-9d19-8a490be2428d
         Path: /salarynegotiation/overview.md
+        
+  -
+    Title: Breaking down the job offer
+    Description: Things to consider when reviewing a job offer
+    UID: 5d0032df-e038-4d6e-8fdf-18d18d744c26 
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 0d4f1fc7-1600-42f1-8817-52a9fe69cc6e
+        Path: /joboffers/overview.md
