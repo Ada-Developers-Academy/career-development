@@ -179,11 +179,11 @@ Standards:
   -
     Title: Breaking down the job offer
     Description: Things to consider when reviewing a job offer
-    UID: 5d0032df-e038-4d6e-8fdf-18d18d744c26 
+    UID: 61110cb3-4414-4e04-89cf-bd9265f9802c 
     SuccessCriteria:
       - success criteria
     ContentFiles:
       -
         Type: Lesson
-        UID: 0d4f1fc7-1600-42f1-8817-52a9fe69cc6e
+        UID: 75763552-64d6-4746-acd3-d1ad9177f1bb
         Path: /joboffers/overview.md
