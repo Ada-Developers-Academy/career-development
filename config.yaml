@@ -187,3 +187,15 @@ Standards:
         Type: Lesson
         UID: 75763552-64d6-4746-acd3-d1ad9177f1bb
         Path: /joboffers/overview.md
+        
+  -
+    Title: Career Paths in Software Development
+    Description: Exploring various career paths in software development
+    UID: 311129ba-5602-4900-9ad0-457eff84379b 
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 0e6e5472-2e9e-4665-805b-04fa933ba3e3
+        Path: /SDEcareerpaths/overview.md        
