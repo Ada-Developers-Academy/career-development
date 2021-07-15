@@ -199,3 +199,15 @@ Standards:
         Type: Lesson
         UID: 0e6e5472-2e9e-4665-805b-04fa933ba3e3
         Path: /SDEcareerpaths/overview.md        
+        
+  -
+    Title: Financial Planning
+    Description: Personal financial management
+    UID: c4b95330-a612-40a8-a4ba-fd8b78db6a2f 
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 1a5b901a-f256-4005-b85f-ad3c568d1699
+        Path: /finance/winning-with-money.md      
