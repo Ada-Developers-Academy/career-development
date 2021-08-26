@@ -8,21 +8,21 @@ The career development side of Thursdays at Ada will be a combination of present
 | September 9   |   Internship Expectations      |  
 | September 16   |   Self-care, balance, and boundaries at work      |  
 | September 23   |    Managing Up     | 
-| September 30 | Preparing for Midpoint Review and SMART goals |  
+| September 30 | SMART goals |  
 | October 7 |   Advocacy + Allyship | 
 | October 14 |   Impostor Syndrome       |
-| October 21 |  No sessions!        |
+| October 21 |  Building a Strong Technical Resume + Resume Lab        |
 | October 28 |     Interviewer Panel     |
-| November 4 |   Building a Strong Technical Resume + Resume Lab       |
+| November 4 |   Resume Reviews       |
 | November 11 |   No sessions!      |
-| November 18 |   Behavioral Interviews + the STAR Method       |
+| November 18 |   Resume Reviews, Behavioral Interviews + the STAR Method       |
 | November 25 |     No sessions!      |
-| December 2 |    Mock Interviews + Resume Review      |
-| December 9 |    Mock Interviews + Resume Review    |
-| December 16 |   Mock interviews debrief, networking + leveraging LinkedIn    |
-| December 23 |  Strong habits of an SDE job seeker      |
+| December 2 |    Financial Planning, Mock Interviews     |
+| December 9 |    Networking + leveraging LinkedIn, Mock Interviews    |
+| December 16 | Strong habits of an SDE job seeker    |
+| December 23 |    No sessions!    |
 | December 30 |   No sessions!    |
 | January 6 |    Salary negotiation      |
 | January 13 |     Dissecting a job offer   |
 | January 20 |    Career paths in software development     |
-| January 27 |  Financial Planning, End of Cohort Celebration, Graduation!       |
+| January 27 |  End of Cohort Celebration, Graduation!       |
