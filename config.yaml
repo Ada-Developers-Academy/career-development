@@ -35,15 +35,15 @@ Standards:
         UID: 2e19cf22-2a99-4698-bbbf-32b1631c1429 
         Path: /remoteinternship/overview.md          
   - 
-    Title: Panel with C13 Interns
+    Title: Panel with C14 Interns
     Description: Internship advice from previous interns
-    UID: deaa25fa-78a9-4f5c-8a83-5dfacf74d7b3  
+    UID: c7cd099a-edd3-4e7c-a1d3-e967b362f06f  
     SuccessCriteria:
       - success criteria
     ContentFiles:
       -
         Type: Lesson
-        UID: cdc04da7-a055-479d-83b1-66a662e00eed 
+        UID: eae11ba5-1163-4087-ad73-9def6783a8fc
         Path: /internshippanel/overview.md
   -
   
