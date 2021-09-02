@@ -1,6 +1,12 @@
-# Internship Panel with C13 alums
+# Remote Internship Keys to Success
 
-<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=3bb8d40b-4762-404e-92d3-ace8017cf47c&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+## Part 1: Keys to a Remote Internship with Emma
+
+<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e3db0527-2734-4541-b705-ad97015d8c0f&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+## Part 2: Internship Panel with C14 Alums
+
+<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=528c1456-b9b1-4fa4-8f73-ad9701778a94&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ## Takeaways:
 
@@ -13,8 +19,9 @@
 - Listening in at standups and trying to understand team projects can help, also you can ask your mentor for a broad overview of the team’s systems + tools 
 - Don’t be afraid to ask for help. However, have a process for figuring things out before you ask for help, list what you tried and your approach first. 
 - Remember, you are there to learn first and foremost! 
-- As Leah said, “Give yourself infinite grace.”
 
 ## Links
-- [Recording](https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3bb8d40b-4762-404e-92d3-ace8017cf47c)
-- [Survey](https://docs.google.com/forms/d/e/1FAIpQLSe2gi4oVBEkVEOUQm2zCnFudDHN258Q2KoBNGBX2g6KpdA2PA/viewform?usp=sf_link)
+- [Recording Part 1](https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e3db0527-2734-4541-b705-ad97015d8c0f)
+- [Recording Part 2](https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e3db0527-2734-4541-b705-ad97015d8c0f)
+- [Slides](https://docs.google.com/presentation/d/1DPu6OTiDcBlr49541fUB3JItxbgOz21Obh5y3VRMP50/edit?usp=sharing)
+- [Survey](https://docs.google.com/forms/d/e/1FAIpQLScGbCkWHAX3_ZHluiQ69Vb4KGPAOIsmZ-Jxst_tyiWg9cW5PA/viewform?usp=sf_link)
