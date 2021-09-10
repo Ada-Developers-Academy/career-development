@@ -20,5 +20,5 @@ Takeaways:
 ## Links
 
 - [Recording](https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7be7d77a-7201-4ead-8a4f-ad9e017ffd3a)
-- [Slide Deck](https://docs.google.com/presentation/d/1lg-FfN0osevNgDrYJTpuKJwlqnaVNaiRip96T9yDESM/edit?usp=sharing)
+- [Slide Deck](https://docs.google.com/presentation/d/1rzkktuNd2D5t6ujOnGJAwLLVPS9AeNcit1boPTjsKl0/edit?usp=sharing)
 - [Survey](https://docs.google.com/forms/d/e/1FAIpQLSfOszZrQsG3q2LmLavmuCX7xh2VQvrSjoU_vgVEXuHcHqzMtg/viewform?usp=sf_link)
