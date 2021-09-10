@@ -15,13 +15,13 @@ Standards:
   -
     Title: Internship Expectations
     Description: Internship Expecatations with Alice and Jackie
-    UID: bc2d81ac-7e2f-40b5-9ebc-ae37af89385b  
+    UID: a6be02e5-3e45-4e2d-8fc8-6b7d37752eae 
     SuccessCriteria:
       - success criteria
     ContentFiles:
       -
         Type: Lesson
-        UID: 23bab5bc-b56a-494c-98fb-426cdb2dec2e  
+        UID: ec00abfd-d115-406d-8034-377512920c80 
         Path: /internshipexpectations/overview.md 
   -
     Title: Remote Internship Tips
