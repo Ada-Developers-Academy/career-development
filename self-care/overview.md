@@ -1,6 +1,6 @@
 # Self Care and Boundary Setting at Work
 
-<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e87f1577-c409-45ca-abac-acf6016ad3bb&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=0968f85c-b84d-4b03-abce-ada6012ad027&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ## Takeaways
 - Internship is the very start - it won’t make or break your career
@@ -23,6 +23,6 @@
 
 
 ## Links
-- [Slides](https://docs.google.com/presentation/d/1R13GrJvCdOiJItTFcdk24eMY4hBgS8ZVoKoBOobS0Q4/edit?usp=sharing)
-- [Recording](https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e87f1577-c409-45ca-abac-acf6016ad3bb)
-- [Survey](https://docs.google.com/forms/d/e/1FAIpQLSdmrY3oFpTkg1uPevd0dGV0TF4_V5DVyWRiBSboR_5--acnWw/viewform)
+- [Slides](https://docs.google.com/presentation/d/1-2D1ngBflYisfcVK9yypSfbf4WjjJD8bQ0u1OGBI6V8/edit?usp=sharing)
+- [Recording](https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0968f85c-b84d-4b03-abce-ada6012ad027)
+- [Survey](https://docs.google.com/forms/d/e/1FAIpQLScOtsohIPa2evcRa9mhYGN_tba9nYCjo3616F4cB8w0IFz4uQ/viewform?usp=sf_link)
