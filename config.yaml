@@ -61,13 +61,13 @@ Standards:
   
     Title: Self Care and Boundary Setting
     Description: Taking care of yourself during internship
-    UID: 0ff60020-b1a3-40bd-92b8-c0bb5a848bca  
+    UID: 266ea575-e6bd-4c29-826b-1e9db9a7ab7c  
     SuccessCriteria:
       - success criteria
     ContentFiles:
       -
         Type: Lesson
-        UID: 5facedda-958f-4b30-818b-5388085ab137  
+        UID: 13bf0131-4e69-49b1-9b8d-2542596f8ef4  
         Path: /self-care/overview.md               
   -
     Title: Preparing for Midpoint Reviews
