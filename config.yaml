@@ -49,13 +49,13 @@ Standards:
   
     Title: Managing Up
     Description: How to get the most out of your relationship with your manager
-    UID: 02719c5a-553a-4d5b-a31f-8ffe6a817033 
+    UID: f0c29893-b51c-4526-a358-e4cb12df50d4 
     SuccessCriteria:
       - success criteria
     ContentFiles:
       -
         Type: Lesson
-        UID: 6125defb-5458-4797-9e9c-6591f3faf278 
+        UID: 7c92d7f7-9719-42e4-91e4-072e8883ee97 
         Path: /managingup/overview.md       
   -
   
