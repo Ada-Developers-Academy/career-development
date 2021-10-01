@@ -72,13 +72,13 @@ Standards:
   -
     Title: Preparing for Midpoint Reviews
     Description: Keys to a successful midpoint review
-    UID: af75fc76-5110-44f0-87a1-3d75acae2cd3 
+    UID: 8adb81c4-246b-4947-a4f0-982e8ddd46b8
     SuccessCriteria:
       - success criteria
     ContentFiles:
       -
         Type: Lesson
-        UID: 70e3fc68-2def-4c4a-9f08-c3f26c8a2a4c 
+        UID: faefae9d-7b1e-47e8-ad1c-60aecf888ad1
         Path: /prepping-for-midpoint-reviews/overview.md
   -
     Title: Managing Impostor Syndrome
