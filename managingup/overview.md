@@ -1,6 +1,6 @@
 # Managing Up
 
-<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=1f61c773-9cea-4e5c-8c56-acf0000577aa&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=261fbefb-e3fa-4aa5-abac-adad0156b381&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ## Takeaways
 
@@ -19,5 +19,5 @@
   - Leave your company
 
 ## Resources
-- [Survey](https://docs.google.com/forms/d/e/1FAIpQLScsEpNkuopgMhG77ok1ovH5ArjjvP0-tlFxeQj7yrJT2fniRA/viewform?usp=sf_link)
+- [Survey](https://docs.google.com/forms/d/e/1FAIpQLSdcTiOPx1JtZVZtR3Dcq-B-A6ghpwrNMu4CO9pN5b-5j3ImZw/viewform?usp=sf_link)
 - [Slides](https://drive.google.com/file/d/1YyfsNoVztNobDz2ASqWRhvF-_fMF6Gld/view?usp=sharing)
