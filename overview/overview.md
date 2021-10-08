@@ -15,10 +15,10 @@ The career development side of Thursdays at Ada will be a combination of present
 | October 28 |     Interviewer Panel with Industry Hiring Managers    |
 | November 4 |   Resume Reviews + Google Lunch + Learn       |
 | November 11 |   No sessions!      |
-| November 18 |   Behavioral Interviews + the STAR Method       |
+| November 18 |   Behavioral Interviews + the STAR Method, Mock Interviews       |
 | November 25 |     No sessions!      |
 | December 2 |    Financial Planning, Mock Interviews     |
-| December 9 |    Networking + LinkedIn for Job Search, Mock Interviews    |
+| December 9 |    Networking + LinkedIn for Job Search    |
 | December 16 | Strong habits of an SDE job seeker    |
 | December 23 |    No sessions!    |
 | December 30 |   No sessions!    |
