@@ -107,13 +107,13 @@ Standards:
   -
     Title: Technical Resume Workshop
     Description: Review of resume template and resume Q & A 
-    UID: ec661c0d-6e6d-454f-ab11-ce7353543c9e 
+    UID: 18b7df18-75ec-498b-b3d6-bacaadc76360 
     SuccessCriteria:
       - success criteria
     ContentFiles:
       -
         Type: Lesson
-        UID: 2389a313-844d-4711-afb1-bf514722b1ea 
+        UID: e68915ca-291d-44c3-acc4-af546dab0884 
         Path: /resumeworkshop/overview.md
         
   -
