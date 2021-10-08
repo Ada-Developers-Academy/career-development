@@ -4,13 +4,13 @@ Standards:
   -
     Title: Schedule
     Description: Topics and speakers
-    UID: 12c9c987-9e99-41f7-8231-1dc6af98819e   
+    UID: dc7c1e18-11ad-4cb0-be1b-c795f87adbb6  
     SuccessCriteria:
       - success criteria
     ContentFiles:
       -
         Type: Lesson
-        UID: 0bf8fee7-8e57-49bf-b419-24545d2601cd
+        UID: 34a006ab-e9d1-4ca6-abda-6383bf60fc27
         Path: /overview/overview.md 
   -
     Title: Internship Expectations
