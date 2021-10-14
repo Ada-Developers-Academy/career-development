@@ -9,3 +9,4 @@
 ## Links:
 - [Recording](https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cb6e6035-eb49-4024-a1da-adba0183a2aa)
 - [Survey](https://docs.google.com/forms/d/e/1FAIpQLSd0x6uoQj2qFWJbs7q04bUCVblh1fZbwN2SAMApxh9uRp7MCw/viewform?usp=sf_link)
+- [Link to submit resume first draft here](https://docs.google.com/forms/d/e/1FAIpQLSelZZhtlWmdGu_YZQzDII6UlxETruIX9EtNjEt9aYD9vw3x_Q/viewform?usp=sf_link)
