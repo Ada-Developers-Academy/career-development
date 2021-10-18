@@ -6,4 +6,8 @@
 
 
 ## Resources: 
+
+<!-- 
 - [self-advocacy link placeholder]()
+
+-->
