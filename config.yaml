@@ -210,4 +210,16 @@ Standards:
       -
         Type: Lesson
         UID: 1a5b901a-f256-4005-b85f-ad3c568d1699
-        Path: /finance/winning-with-money.md      
+        Path: /finance/winning-with-money.md
+  -
+    Title: Self Advocacy
+    Description: Self Advocacy @ Internship + Work Panel
+    UID: f6210bef-b5e5-48d2-b819-1ce6b19b1862
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 792e39cc-81f2-448e-b4a4-b90bb819e265
+        Path: /self-advocacy/self-advocacy-video.md
+ 
