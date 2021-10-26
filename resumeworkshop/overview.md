@@ -4,7 +4,7 @@
 
 ## Resources: 
 - [Resume Rubric](https://docs.google.com/document/d/1BVqiq-oKUkqo_eeVizCw5MJWJU3Mdz-iPlnQaaeM7Z8/edit)
-- [Resume Template](https://docs.google.com/document/d/1ALP6B0c6lw_cWEvIEhXlAC5Hsbq9zcvQ/edit)
+- [Resume Template](https://docs.google.com/document/d/1WJ4UTyKuHyLs3aL3jDz6UiTB4E3lbyQIU7FNWRWiHqc/edit?usp=sharing)
 
 ## Links:
 - [Recording](https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cb6e6035-eb49-4024-a1da-adba0183a2aa)
