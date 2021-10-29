@@ -222,4 +222,15 @@ Standards:
         Type: Lesson
         UID: 792e39cc-81f2-448e-b4a4-b90bb819e265
         Path: /self-advocacy/self-advocacy-video.md
+ -
+    Title: Interview Panel
+    Description: Interview Panel: Hiring Managers
+    UID: 9457101f-aaca-4b3e-869e-a14675bd550b
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+ -
+        Type: Lesson
+        UID: baf961a2-5b40-443d-8b6f-e06521329adf
+        Path: /Interview-Panel/Hiring-Managers.md
  
