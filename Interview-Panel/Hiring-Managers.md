@@ -9,7 +9,7 @@ Facilitators: Makeda Hope-Crichlow (Zillow), Pedrito Maynard-zhang (Amazon), Anu
 - How to advocate for yourself/take care of yourself while job searching and interviewing
 - Any tips and gems of advice you have to offer our interns!
 
-## Links: 
+## Links:https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4732fe95-bc5d-4d05-8bb3-add0012c3c00
 
 - Recording: 
 - Slides: N/A
