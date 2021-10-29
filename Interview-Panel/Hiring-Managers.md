@@ -7,7 +7,6 @@ Facilitators: Makeda Hope-Crichlow (Zillow), Pedrito Maynard-zhang (Amazon), Anu
 - Navigating the SDE interview process and how to best prepare
 - How can interns vet and evaluate a prospective company for inclusivity (will I belong here or will I be just another "diversity hire"?)
 - How to advocate for yourself/take care of yourself while job searching and interviewing
-- Any tips and gems of advice you have to offer our interns!
 
 ## Links:
 - Recording: https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4732fe95-bc5d-4d05-8bb3-add0012c3c00
