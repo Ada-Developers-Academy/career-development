@@ -233,4 +233,15 @@ Standards:
         Type: Lesson
         UID: baf961a2-5b40-443d-8b6f-e06521329adf
         Path: /Interview-Panel/Hiring-Managers.md
- 
+  -
+    Title: Leveraging LinkedIn
+    Description: Leveraging LinkedIn Networking and Job Search
+    UID: 9457101f-aaca-4b3e-869e-a14675109350b
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: baf961a2-5b40-443d-a33e-e06521329adf
+        Path: /Leveraging LinkedIn/Networking-Job Search.md
+  
