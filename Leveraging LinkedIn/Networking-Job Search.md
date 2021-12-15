@@ -13,5 +13,5 @@ Learn how you can strategically leverage LinkedIn to advance your career. As the
 
 ## Links:
 - Recording: N/A
-- Slides:
+- Slides:[Leveraging LinkedIn](https://github.com/Ada-Developers-Academy/career-development/raw/master/Leveraging%20LinkedIn/LinkedIn%20Presentation%20-%20Sage%20Quiamno%20(1).pdf)
 - Feedback Survey: https://forms.gle/xKjefzkoHsjmBuVa8
