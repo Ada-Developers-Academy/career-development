@@ -244,4 +244,14 @@ Standards:
         Type: Lesson
         UID: baf961a2-5b40-443d-a33e-e06521329adf
         Path: /Leveraging LinkedIn/Networking-Job Search.md
-  
+  -
+    Title: Salary Negotiation
+    Description: Salary Negotiation + Video 
+    UID: 9457101f-acca-4b3e-869e-a14675103905b
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: baf961a2-5b40-443d-a33e-e06521329adfdf
+        Path: /Salary-Negotiation/Salary-Negotiation-video.md
