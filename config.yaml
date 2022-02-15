@@ -1,8 +1,8 @@
 ---
 Standards:
   -
-    Title: Careeer Development
-    Description: All relevant resources for career development workshops taught by our Career Services Managers
+    Title: Career & Professional Development
+    Description: All relevant resources for career & professional development workshops taught by our Career Services Managers
     UID: b43340e1-9052-4b5d-8c8a-24e34ab8210a
     SuccessCriteria:
       - success criteria
@@ -11,15 +11,3 @@ Standards:
         Type: Lesson
         UID: 5d7e93f3-b6cd-4edd-8912-ca9140fae368
         Path: /career-development/career-development.md
-  -
-    Title: Professional Development
-    Description: All relevant resources for professional development sessions taught by our Career Services Managers
-    UID: 57d9a940-8eaa-40a3-8296-7e66577a1326
-    SuccessCriteria:
-      - success criteria
-    ContentFiles:
-      -
-        Type: Lesson
-        UID: 459c1394-e45e-408a-aa4a-139a33cead15
-        Path: /professional-development/professional-development.md
-  
