@@ -1,8 +1,8 @@
 ---
 Standards:
   -
-    Title: Career & Professional Development
-    Description: All relevant resources for career & professional development workshops taught by our Career Services Managers
+    Title: "Thursdays At Ada: Career Development"
+    Description: All relevant resources for career development workshops taught by our Career Services Managers
     UID: b43340e1-9052-4b5d-8c8a-24e34ab8210a
     SuccessCriteria:
       - success criteria
@@ -11,3 +11,14 @@ Standards:
         Type: Lesson
         UID: 5d7e93f3-b6cd-4edd-8912-ca9140fae368
         Path: /career-development/career-development.md
+  -
+    Title: Career & Professional Development
+    Description: All relevant resources for professional development workshops taught by our Career Services Managers
+    UID: 02fadd57-f0a5-4d5b-921c-aee8ccdbde84
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: dbb6d2de-c7c5-460d-a7e8-2c2f3fbd7277
+        Path: /professional-development/professional-development.md
