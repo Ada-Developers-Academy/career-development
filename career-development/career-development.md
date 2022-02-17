@@ -1,4 +1,4 @@
-# Career & Professional Development
+# Career Development
 
 Career service materials on Career & Professional Development can be found on the following google documents.
 
